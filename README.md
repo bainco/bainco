@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi, I'm Connor! 👋
 
-<!--
-**bainco/bainco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Assistant Professor of Instruction @ Computer Science Department - Northwestern University
 
-Here are some ideas to get you started:
+## Education
+* Ph.D. Computer Science and Learning Sciences, Northwestern University
+* M.S. Computer Science, Northwestern University
+* B.S.C.S Computer Science, University of South Carolina
+* B.S. in Mathematics, University of South Carolina
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=bainco&theme=tokyonight&private=true" />
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bainco&layout=compact&count_private=true&theme=tokyonight&langs_count=10" />
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=cs,latex,racket,python,cpp,java,netlogo,html,css,js,markdown,discord,github,&theme=dark" />
+    </a>
+</p>
