@@ -2,6 +2,12 @@
 
 * Assistant Professor of Instruction @ Computer Science Department - Northwestern University
 
+## Research Interests
+* computational literacy
+* programming transparency
+* beginner programming languages / environments
+* teacher development
+
 ## Education
 * Ph.D. Computer Science and Learning Sciences, Northwestern University
 * M.S. Computer Science, Northwestern University
@@ -12,13 +18,14 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bainco&layout=compact&count_private=true&theme=tokyonight&langs_count=10" />
     </a>
-    <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=bainco&theme=tokyonight&private=true" />
-    </a>
 </p>
-
+<p align="center">
+<a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=bainco&theme=tokyonight&private=true" />
+</a>
+</p>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=latex,python,cpp,java,html,css,js,markdown,&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=latex,python,cpp,java,html,css,js,markdown,&perline=7&theme=dark" />
     </a>
 </p>
